@@ -1,8 +1,5 @@
 # neural-style
 
-This is a torch implementation of the paper [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
-by Daniel Carpenter
-
 The paper presents an algorithm for combining the content of one image with the style of another image using
 convolutional neural networks. Here's an example that maps the artistic style of
 [The Starry Night](https://en.wikipedia.org/wiki/The_Starry_Night)
